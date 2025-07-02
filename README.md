@@ -6,7 +6,7 @@ This project uses Logistic Regression to predict the likelihood of a person havi
 
 Given a set of medical attributes (age, cholesterol, blood pressure, etc.), the goal is to predict whether a patient is at risk of heart disease (1) or not (0).
 
-## 🚀 Features
+##  Features
 
 - Data loading and exploration
 - Feature scaling and preprocessing
@@ -22,7 +22,7 @@ Given a set of medical attributes (age, cholesterol, blood pressure, etc.), the 
 - scikit-learn
 - Matplotlib 
 
-## 📂 Project Structure
+## Project Structure
 
 heart-disease-pred/
 ├── heart_disease_prediction.py / untitled38.ipnyb
